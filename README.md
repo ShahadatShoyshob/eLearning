@@ -188,5 +188,4 @@ ALLOWED_HOSTS=your-domain.com
 
 ## License
 
-This is a submission for Coursework.
-# eLearning
+This is submission for Coursework.
